@@ -1,16 +1,7 @@
-<<<<<<< HEAD
 .table {
     width: 100%;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-=======
-.table {
-    width: 100%;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
->>>>>>> dc272edbb641af8ac34bab36d1a77325430f0062
 }
